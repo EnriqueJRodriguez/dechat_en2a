@@ -1,5 +1,5 @@
 {
-  "name": "dechatjs_0",
+  "name": "solid-app-terminal",
   "version": "0.0.0",
   "description": "A decentralized chat",
   "main": "index.js",
@@ -37,8 +37,11 @@
     "asciidoctor.js": "^1.5.9",
     "babel-plugin-istanbul": "^5.1.0",
     "chai": "4.2.x",
+    "chalk": "^2.4.2",
+    "clear": "0.0.1",
     "coveralls": "^3.0.2",
     "eslint": "^5.x",
+    "finglet": "^1.2.0",
     "gulp": "^4.0.0",
     "gulp-cli": "^2.0.1",
     "gulp-exec": "^3.0.2",
@@ -53,6 +56,7 @@
   },
   "dependencies": {
     "codacy-coverage": "^3.4.0",
+    "figlet": "^1.2.1",
     "istanbul": "^0.4.5",
     "standard": "^12.0.1"
   }
