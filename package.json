@@ -57,6 +57,7 @@
   "dependencies": {
     "codacy-coverage": "^3.4.0",
     "figlet": "^1.2.1",
+    "inquirer": "^6.2.2",
     "istanbul": "^0.4.5",
     "standard": "^12.0.1"
   }
